@@ -5,7 +5,6 @@ module.exports = {
       host: ["8.134.154.68"],
       ref: "origin/main",
       repo: "git@github.com:648253615/vue-node-mall.git",
-      ssh_options: "StrictHostKeyChecking=no",
       path: "/home/vue-node-mall",
     }
   }
